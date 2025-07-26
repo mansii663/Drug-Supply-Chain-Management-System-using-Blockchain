@@ -1,4 +1,4 @@
-# Drug Supply Chain Management using Blockchain
+# Drug Supply Chain Management System using Blockchain
 
 This project is a decentralized application (DApp) designed to enhance transparency and trust in the pharmaceutical industry. Built with blockchain technology, it ensures secure tracking of drugs throughout the supply chain — from manufacturer to consumer.
 
